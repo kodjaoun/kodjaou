@@ -143,4 +143,7 @@ button{
         width: 100%;
         height: 200px;
     }
+    .face img{
+        margin-left: 100px;
+     }
 }
